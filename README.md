@@ -110,7 +110,7 @@ De website bestaat uit minstens 3 delen:
 | Term                      | Definitie |
 | ------------------------- | --------- |
 | HTML                      |           |
-| CSS                       |           |
+| CSS                       |Een taal die gebruikt wordt om de opmaak van een website te bepalen.           |
 | commentaar                |           |
 | server                    |           |
 | browser                   |           |
@@ -142,10 +142,10 @@ De website bestaat uit minstens 3 delen:
 | opmaak                    |           |
 | property                  |           |
 | property-value (waarde)   |           |
-| stylesheet                |           |
+| stylesheet                |om de lay-out en het ontwerp van een webpagina of document te regelen.           |
 | externe stylesheet        |           |
 | *.css                     |           |
-| selector                  |           |
+| selector                  |vertelt de browser welke HTML-elementen moeten worden geselecteerd om de waarden van de CSS-eigenschappen in de regel op hen toe te passen.           |
 | conflicterende stijlregel |           |
 | hover                     |           |
 | hexadecimale kleurwaarde  |           |
@@ -155,13 +155,13 @@ De website bestaat uit minstens 3 delen:
 | font family               |           |
 | serif                     |           |
 | sans-serif                |           |
-| monospace                 |           |
-| box model                 |           |
-| padding                   |           |
-| border                    |           |
-| margin                    |           |
-| width                     |           |
-| height                    |           |
+| monospace                 |Alle tekens hebben dezelfde vaste breedte.           |
+| box model                 |is een container die meerdere eigenschappen bevat, waaronder randen, marge, opvulling, en de inhoud zelf.           |
+| padding                   |definieert het binnenste gedeelte van het boxmodel, dat ruimte creëert rond de inhoud van een element, binnen eventuele gedefinieerde marges en/of randen.           |
+| border                    |trekt een lijn rond een element.           |
+| margin                    |is de ruimte rond de rand van een element           |
+| width                     |De breedte van een element in de website           |
+| height                    |De hoogte van een element in de website           |
 
 ## 📚 Bronnen
 
