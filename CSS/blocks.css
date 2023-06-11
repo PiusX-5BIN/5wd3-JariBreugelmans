@@ -1,0 +1,133 @@
+body{
+    background-color: floralwhite;
+}
+nav{
+    background-color:rgb(174, 158, 67) ;
+}
+nav ul li a {
+    color: rgb(240, 232, 185);
+    text-decoration: none;
+    font-size: 18px;
+}
+nav ul li a:hover {
+    background-color: black;
+}
+p.GameDevelopmentTextBegin{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+p.GameDevelopmentTextBegin2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+article.BeginGameDevelopment {
+    background-color: rgb(174, 158, 67);
+}
+p.GameDevelopmentText{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(240, 232, 185);
+}
+h2.TitelsGameDevelopment{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionGameDevelopment{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionPlatform{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionProgram{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionGrafischAudio{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionPrototypeTesten{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionPolish{
+    color: rgb(240, 232, 185);
+}
+h3.DescriptionLancering{
+    color: rgb(240, 232, 185);
+}
+section{
+    background-color: rgb(106, 148, 154);
+}
+p.GameDevelopmentTextEind{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+article{
+    background-color: rgb(174, 158, 67);
+}
+p.Aanpak{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(240, 232, 185);
+}
+H2.TitelAanpakSection{
+    color: rgb(240, 232, 185);
+}
+article.MijnErvaringenGame{
+    background-color: rgb(174, 158, 67);
+}
+p.MijnErvaringen{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+H1{
+    color: rgb(240, 232, 185);
+    font-size: 50px;
+}
+article.UitlegProjectGame{
+    background-color: rgb(174, 158, 67);
+}
+p.UitlegProject{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+article.Website{
+    background-color: rgb(174, 158, 67);
+}
+p.IntroBlog{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+.BelangSystem{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;   
+}
+.belangSystem{
+    background-color: rgb(174, 158, 67);
+}
+figure{
+    background-color:  rgb(174, 158, 67);
+}
+.Home{
+    font-weight: bold;
+    color: rgb(240, 232, 185);
+    font-size: 100%;
+}
+.eindeSystem{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(240, 232, 185) ;
+    font-size: 150%;
+}
+.EindArticleSystem{
+    background-color: rgb(174, 158, 67);
+}
+footer{
+    background-color: black;
+}
+.contactInfo{
+    font-size: 200%;
+    color: white;
+    background-color: black;
+}

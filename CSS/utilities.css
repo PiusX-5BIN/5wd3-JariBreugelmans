@@ -1,0 +1,67 @@
+
+nav{
+    padding: 0px 100px;
+    position: fixed;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a {
+    display:inline-block;
+    list-style: none;
+    text-transform: uppercase;
+    padding: 0px 15px;
+}
+p.GameDevelopmentTextBegin{
+    padding-top: 4%;
+}
+p.GameDevelopmentTextBegin2{
+    padding-top: 0%;
+    padding-bottom: 3%;
+}
+p.GameDevelopmentText{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 3%;
+}
+p.GameDevelopmentTextEind{
+    padding-top: 5%;
+}
+p.Aanpak{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 3%;
+}
+p.AanpakGame{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 3%;
+}
+p.MijnErvaringen{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+p.UitlegProject{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+p.IntroBlog{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.BelangSystem{
+    padding-top: 2%;
+    padding-bottom: 4%; 
+}
+
+.eindeSystem{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.footerFoto{
+    border-radius: 40%;
+}
+.contactInfo{
+    padding-top: 5%;
+}
