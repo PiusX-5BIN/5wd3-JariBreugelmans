@@ -1,0 +1,33 @@
+# Uitleg project
+Voor dit project moesten wij eerst een online leerprogramma volgen over html en
+            CSS. Die informatie moesten
+            wij
+            dan gebruiken om een website te kunnen maken. We mochten een superheld kiezen en over die superheld hebben
+            wij
+            een website gemaakt. We moesten eerst een schets van de website maken in markdown en dan konden we beginnen
+            met
+            html. De website moest een header, een profiel van de superheld, de guitegenissen en een footer bevatten.
+            Als
+            onze html klaar was dan zijn we begonnen met de opmaak van de website
+## Aanpak van het project
+Eerst ben ik begonnen aan de Header van de website. Ik heb een foto gekozen voor als banner
+            van de website te
+            gebruiken. Boven de foto heb ik een navigatie balk gemaakt zodat je naar andere delen van de website kan
+            springen. met daaronder een beetje info over de website. De navigatie balk heb ik gemaakt met een nav tag en
+            dan
+            een lijst gemaakt met alle secties van de website. Dan heb ik de foto's toegevoegt met een img tag en de
+            info
+            met een p tag. Daarna heb ik met css de background color veranderd en het lettertype, kleur, positie en
+            grootte
+            aangepast.
+Daarna heb de het profiel van mijn superhero gemaakt. Ik gekozen voor een foto en dan wat uitleg over de
+            superhero. Bij het vorige deel van mijn website heb ik een header tag gebruikt maar bij dit deel heb ik een
+            section tag gebruit omdat dit een van de secties is van de website. Ik heb de section tag een class gegeven
+            zodat je kan zijn dat dit de sectie profiel is. Dan heb ik de section opgemaakt zoals de vorige sectie.
+Dan heb ik de gebeurtenissen sectie gemaakt van mijn superhero website. Voor elke getuigenis heb ik een
+            article
+            tag gemaakt. Ik heb een foto van de getuigenissen erbij gezet en hun ervaringen met de superhero. Daarna heb
+            ik
+            de opmaak aangepast net zoals de rest van de website.Als laatse heb ik mijn footer gemaakt. In de footer heb ik mijn e-mail van school gezet zodat ik een contact
+            middel erin heb gezet. Ik heb een foto gevonden dat lijkt op een logo van mijn website. Ik een footer tag
+            gebruikt voor deze sectie. Daarna heb ik de opmaak aangepast aan de rest van mijn website.

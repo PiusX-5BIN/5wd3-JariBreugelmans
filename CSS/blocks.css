@@ -32,6 +32,9 @@ p.GameDevelopmentText{
 h2.TitelsGameDevelopment{
     color: rgb(240, 232, 185);
 }
+h2.Titels2GameDevelopment{
+    color: rgb(240, 232, 185);
+}
 h3.DescriptionGameDevelopment{
     color: rgb(240, 232, 185);
 }
@@ -65,6 +68,10 @@ article{
     background-color: rgb(174, 158, 67);
 }
 p.Aanpak{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(240, 232, 185);
+}
+p.AanpakGame{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(240, 232, 185);
 }
